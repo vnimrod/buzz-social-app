@@ -1,13 +1,14 @@
 # Buzz-social-network-app
 
 ## Social network app where you can share your buzz with other friends,.
-
+<br/>
 ### With buzz you will be able to:
    - create a new profile     :+1:
    - create new buzzings(posts) :+1:
    - visit other buzzers profiles :+1:
    - and more!
-
+<br/>
+<br/>
 Deployment link: https://weinstein-nims-chat-app-client.herokuapp.com/
 
 Server side: https://github.com/vnimrod/nims-chat-app-server
