@@ -5,10 +5,10 @@
 
 
 ## With buzz you will be able to:
-   - create a new profile :+1:
-   - create new buzzings(posts) :+1:
-   - visit other buzzers profiles :+1:
-   - and more!
+   - Create a new profile :+1:
+   - Create new buzzings(posts) :+1:
+   - Visit other buzzers profiles :+1:
+   - And more!
 
 Deployment link: https://weinstein-nims-chat-app-client.herokuapp.com/
 
