@@ -1,0 +1,58 @@
+.Education{
+  border: 5px solid #8B4513;
+  background-color: #FFD700;
+}
+.Education__items{
+  padding:10px;
+}
+
+.Education_item{
+  border: 5px solid #8B4513;
+  padding:10px;
+  background-color: #FFD700;
+}
+.Education__item{
+  width:75%
+}
+
+.Education span {
+  position: relative;
+  vertical-align: middle;
+  left: 122px;
+  bottom: 24px;
+  word-break: break-word;
+}
+
+.hr{
+  padding:0.9px;
+  margin:0;
+  background-color:#CD853F;
+}
+.Education__items__trash-icon{
+  display: flex;
+  justify-content: center;
+}
+
+.Education__items__trash-icon img{
+  filter: invert(29%) sepia(64%) saturate(762%) hue-rotate(347deg) brightness(92%) contrast(94%);
+}
+
+
+
+@media (max-width: 768px) {
+  .Education__items__trash-icon img{
+    height:30px;
+    width:30px;
+  }
+  .Education__item{
+    padding: 8px
+  }
+  .Education span{
+    position: inherit;
+    word-break: break-all;
+  }
+
+  .Education__items_info p{
+    font-size: 18px;
+  } 
+}

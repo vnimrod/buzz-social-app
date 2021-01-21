@@ -1,0 +1,117 @@
+.LandingPage {
+  display: flex;
+  flex-direction: column;
+}
+
+.LandingPage__intro {
+  margin-top: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.LandingPage__intro__about {
+  display: flex;
+  flex-direction: column;
+  padding: 11vh;
+}
+
+.LandingPage__intro__about__opening-sentence {
+  font-size: 21px;
+  font-family: 'Handlee', cursive;
+  color: #8b4513;
+}
+
+.LandingPage__intro__about__title {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  font-family: 'Balsamiq Sans', cursive;
+}
+.LandingPage__intro__about__title__welcome {
+  font-size: 50px;
+  font-family: inherit;
+}
+
+.LandingPage__intro__about__title__welcome-footer {
+  align-self: center;
+}
+
+.LandingPage__intro__about__join-button {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.LandingPage__intro__about__join-button span {
+  margin-bottom: 10px;
+}
+
+.LandingPage__intro__about__join-button a {
+  border-radius: 25%;
+  padding: 5px;
+  margin-top: 15px;
+  align-content: center;
+  align-self: center;
+}
+
+.LandingPage__buzz-landing img {
+  width: 55vw;
+  height: 37vw;
+}
+
+footer {
+  font-size: 15px;
+  align-self: flex-end;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+@media (max-width: 768px) {
+  .LandingPage__intro{
+    flex-direction: column-reverse;
+  }
+  .LandingPage__buzz-landing img {
+    width: 68vw;
+    height: 53vw;
+    padding-left: 52px;
+  }
+  .LandingPage__intro__about{
+    padding:10px;
+  }
+  .LandingPage__intro__about__title__welcome{
+    font-size:34px;
+  }
+  .LandingPage__intro__about__title__welcome-footer{
+    font-size: 12px;
+  }
+  footer{
+    position: relative;
+    top: 152px;
+  }
+}
+
+
+@media (min-width: 1500px){
+  .LandingPage__intro__about{
+    padding:14vh
+  }
+  .LandingPage__intro__about__opening-sentence{
+    font-size: 30px;
+  }
+  .LandingPage__intro__about__title__welcome{
+    font-size: 60px;
+    align-self: center;
+  }
+  .LandingPage__intro__about__title__welcome-footer{
+    font-size: 20px;
+  }
+  .LandingPage__buzz-landing img{
+    width: 55vw;
+    height: 43vw;
+  }
+  .LandingPage__intro__about__join-button span{
+    font-size: 3vh;
+  }
+  .LandingPage__intro__about__join-button a{
+    padding:10px;
+  }
+}

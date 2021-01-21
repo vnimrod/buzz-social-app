@@ -1,0 +1,52 @@
+.MyProfile{
+  margin-top:70px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #8B4513;
+  padding:10px 40px;
+}
+
+.MyProfile input{
+  width:80%;
+  height:20px;
+  border: 1px solid black
+}
+
+.MyProfile__edit-span{
+font-weight: bold;
+font-size: 40px;
+}
+
+.MyProfile__input__about-me textarea{
+  resize: none;
+  height:70px;
+  width:79.5%;
+  border-radius: 4px;
+}
+
+.MyProfile__input__bottom-buttons{
+  margin-top:35px;
+}
+
+.MyProfile__input__bottom-buttons button[type=submit]{
+  margin-right: 10px;
+}
+.MyProfile__input__bottom-buttons button[type=button]{
+  margin-right: 10px;
+}
+
+@media (max-width: 768px){
+  .MyProfile__input__bottom-buttons button[type=submit]{
+    margin-right: 1px;
+    padding:5px
+  }
+  .MyProfile__input__bottom-buttons button[type=button]{
+    padding:5px
+  }
+  .MyProfile__input__bottom-buttons a{
+    margin-right: 6px;
+    padding:5px
+  }
+}

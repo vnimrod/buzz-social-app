@@ -1,0 +1,52 @@
+.AddEducation{
+  margin-top:70px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #8B4513;
+  padding:10px 40px;
+}
+
+.AddEducation__add-span{
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.AddEducation input{
+  width:80%;
+  height:20px;
+  border: 1px solid black
+}
+
+/* .AddEducation__input__bottom-buttons{
+  display: flex;
+  justify-content: space-between;
+  width:25%;
+  padding-top:40px;
+} */
+
+.AddEducation__input__bottom-buttons{
+  margin-top:35px;
+}
+
+.AddEducation__input__bottom-buttons button[type=submit]{
+  margin-right: 10px;
+}
+.AddEducation__input__bottom-buttons button[type=button]{
+  margin-right: 10px;
+}
+
+@media (max-width: 768px){
+  .AddEducation__input__bottom-buttons button[type=submit]{
+    margin-right: 6px;
+    padding:5px
+  }
+  .AddEducation__input__bottom-buttons button[type=button]{
+    padding:5px
+  }
+  .AddEducation__input__bottom-buttons a{
+    margin-right: 6px;
+    padding:5px
+  }
+}
