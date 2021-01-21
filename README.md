@@ -4,7 +4,7 @@
 ## create a new profile, create new buzzings(posts), visit other buzzers profiles and more! :+1:
 
 ## With buzz you:
-  -create a new profile
+   - create a new profile
 
 Deployment link: https://weinstein-nims-chat-app-client.herokuapp.com/
 
