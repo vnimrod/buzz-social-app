@@ -1,9 +1,7 @@
 # Buzz-social-network-app
 
-## Social network app where you can share your buzz with other friends. <br/>
-
-
-
+## Social network app where you can share your buzz with other friends. 
+<br/>
 ## With buzz you will be able to:
    - Create a new profile :+1:
    - Create new buzzings(posts) :+1:
