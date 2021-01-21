@@ -8,7 +8,7 @@
    - Visit other buzzers profiles :+1:
    - And more!
 
-Deployment link: https://weinstein-nims-chat-app-client.herokuapp.com/
+Deployment link: https://weinstein-buzz-client.web.app/
 
 Server side: https://github.com/vnimrod/nims-chat-app-server
 
