@@ -1,6 +1,6 @@
-# Nims chat app
+# Buzz-social-network-app
 
-## A private chat application, allowing users to join or create private chat rooms.
+## Social network app where you can share your buzz with other friends, create a profile, create new buzzings(posts),visit other buzzers profiles and more!
 
 Deployment link: https://weinstein-nims-chat-app-client.herokuapp.com/
 
