@@ -10,7 +10,7 @@
 
 Deployment link: https://weinstein-buzz-client.web.app/
 
-Server side: https://github.com/vnimrod/nims-chat-app-server
+Server side: https://github.com/vnimrod/buzz-social-app-server
 
 #### Technologies:
 - React.js
