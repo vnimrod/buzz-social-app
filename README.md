@@ -1,6 +1,6 @@
 # Buzz-social-network-app
 
-## Social network app where you can share your buzz with other friends,.
+## Social network app where you can share your buzz with other friends./
 
 
 
