@@ -5,7 +5,7 @@
 
 
 ## With buzz you will be able to:
-   - create a new profile     :+1:
+   - create a new profile :+1:
    - create new buzzings(posts) :+1:
    - visit other buzzers profiles :+1:
    - and more!
