@@ -3,6 +3,8 @@
 ## Social network app where you can share your buzz with other friends,.
 ## create a new profile, create new buzzings(posts), visit other buzzers profiles and more! :+1:
 
+### create a new profile,
+### create a new profile,
 Deployment link: https://weinstein-nims-chat-app-client.herokuapp.com/
 
 Server side: https://github.com/vnimrod/nims-chat-app-server
